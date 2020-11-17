@@ -10,6 +10,8 @@ Linux Distros
 **Supported OS:**
 Any Os That Can Run Python
 
+v2
+
 ### > For Termux:
 
 pkg update
